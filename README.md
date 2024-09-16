@@ -6,5 +6,5 @@ Boas Vindas ao meu perfil
 
 *Estou e desenvolvendo na linguagem JavaScript
 
-*Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desemvolvidos
+*Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
